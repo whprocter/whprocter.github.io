@@ -5,4 +5,4 @@ title: "About"
 
 I have **ABSOLUTELY** no idea what I am doing
 
-Hi, this is my first GIS repository for GIScience at Middlebury College. 
+Hi, my name is Will Procter and this is my first GIS repository for GIScience at Middlebury College.  You can reach me at wprocter@middlebury.edu
