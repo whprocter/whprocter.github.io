@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Will Procter"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello! Welcome to my portfolio."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -75,7 +75,7 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "I do not have Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"

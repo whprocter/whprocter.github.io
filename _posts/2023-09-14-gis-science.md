@@ -8,7 +8,7 @@ tags:
   - Science
 ---
 
-Write some very intelligent things about whether GIS is a **tool**, a *toolbuilder*, or a *___formal science__*.
+Write some very intelligent things about whether GIS is a **tool**, a *toolbuilder*, or a *__formal science__*.
 
 Find more information abouyt the class I am taking [here](https://opengisci.github.io)
 
