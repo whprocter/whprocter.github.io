@@ -32,6 +32,38 @@ Variation in methods employed in a study: very slight changes in methodology can
 Rigor = strict application of the scientific method to ensure robust and unbiased experimental design
 
 Transparency (of data, code, and computational methods) implies computational reproduccibility of the results.  The clarity, accuracy, specificity, and completeness in the description of study methods directly affects replicability.
+---------
+Open source = revolutionary collection of tools and processes through which individuals create, share, and apply new software and knowledge
 
+Open source software and free software are similar, but have some key differences:
+- free software has freely available source code, and users can modify program to suit their needs and run program for any purpose
+- open source stresses more the practical benefits of open source licenses
+--------
+Ways that open source GIS solves reproducibility/replicability:
+- open source software creates, nurtures, and grows communities of shared interest who will continue developing and organizing the code
+- the volunteers
+- continuous feedback channels where users can identify bugs, request features, and provide help to other users
+- source code allows you to examine the precise implementation of a spatial analytical method
+- errors in algorithms can be directly identified by the user
+- code is usually free - students can use their own laptops to learn (don't have to rely on lab computer licenses)
+- code is available to more students
+- being able to access the code helps you learn...can break down the actual steps you are doing
+- ability to examine, modify, enhance, and release source code to the wider community
+- transparency mechanism to facilitate communication between scholars --> opens the dialogue for scientific inquiry when you can see the mechanisms you are working with
+- user markets can be leveraged for new innovations essential to the reproducibility/replicability process (ex. designing specifically for that purpose, since those are the demands of the GIS user base)
+
+
+Reproducibility/replicability issues in geography that open source GIS cannot solve:
+-developer-centric nature of open source project
+-fosters technological elitism --> only those with programming skills can participate in the development
+- things can be designed for engineers and forget the end-user in mind
+- poor quality documentation is a barrier for non-technical and technical users alike
+- frequent updates --> teaching it is like trying to pin down a moving target (also a problem for long-term research projects which might start in an older version and have to continue in that older version because of incompatible updates)
+- concerns of security breaches and quality control problems when there are multiple, often uncredentialed developers of it
+- dependence on packages can be limiting
+- you could in theory take open source code and use it to develop your own closed-source propriertary package *without any explicit attribution to the original authors* --> Google has done this, and has been criticized for it
+- community-built infrastructure can be undervalued and underappreciated...open source developers likely won't be receiving fellowships or professor tenure --> and this type of image isn't historically welcomed in the scientific fields and academic reproducibility/replicability studies
+- perception that documentation can be low quality
+- Peer review in open source ≠ peer review in the context of academia
 
 
