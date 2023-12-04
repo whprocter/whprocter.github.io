@@ -1,6 +1,8 @@
-**View study here:** https://whprocter.github.io/RPr-Chakraborty-2021/
+[View the full report here](https://whprocter.github.io/RPr-Chakraborty-2021/)
 
-In our attempt replicate the original Chakraborty (2021) Covid-19 Disabilitystudy, we've gleaned several valuable lessons about the scientific research process. The replication study yielded results that closely paralleled the original research but also introduced deviations that warrant attention and analysis.
+[View the GitHub repository here](https://github.com/whprocter/RPr-Chakraborty-2021)
+
+In our attempt replicate the original Chakraborty (2021) Covid-19 Disability study, we've gleaned several valuable lessons about the scientific research process. The replication study yielded results that closely paralleled the original research but also introduced deviations that warrant attention and analysis.
 
 The deviations that emerged during our replication were not necessarily errors but rather variations that arose due to differences in computational environments. Our utilization of Spatial Epi contrasted with the original study's SaTScan approach, contributing to some of these disparities. These deviations, while not inherently detrimental, underscore the importance of meticulous research design scrutiny, internal validity assessment, and robustness testing of key parameters. They serve as a reminder that even slight variations can impact research outcomes. My biggest takeaway from this exercise was that two software packages that at first glance both appear to be implementing a spatial scan statistic based on the Poisson Model (SatScan and Spatial Epi) can actually operate differently (ex. how they calculate distance, grid vs. circle approach, etc) such that they yield different results, the difference of which is statistically significant.
 
@@ -13,3 +15,6 @@ In terms of improving the study's research design, our replication study has hig
 Lastly, our replication study opens the door to further research, replication, and reanalysis. The deviations we observed and the variations in results between the original study and our replication provide fertile ground for meaningful follow-up studies. These studies can delve deeper into the nuanced aspects of the research, providing a comprehensive understanding and further testing the theories established by the original study.
 
 In conclusion, our replication study has reinforced the critical role of replication in scientific inquiry. It has also highlighted opportunities for refining research design, improving reproducibility, and expanding the educational applications of research findings. Moreover, it has paved the way for future investigations that can build upon the foundations laid by the original study, offering the potential for deeper insights and a more comprehensive understanding of the subject matter.
+
+Original Chakraborty (2021) Study:
+Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI: <10.1016/j.dhjo.2020.101007]>.
