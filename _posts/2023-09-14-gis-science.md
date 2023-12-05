@@ -26,15 +26,14 @@ The last position is that GIS is a full on **science**.  Science is defined as a
 # Ultimately, while GIS is incredibly complex, it is merely a tool that is evoloving that offers the technical features for scholars to study and test hypotheses pertinent to other core disciplines.
 
 
+**REFERENCES**
+NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: [10.17226/25303]
+Chapter 3, Understanding reproducibility and replicability (pages 31-43 )
 
-
-Write some very intelligent things about whether GIS is a **tool**, a *toolbuilder*, or a *__formal science__*.
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: [10.1007/s10109-009-0086-8]
 
 Find more information abouyt the class I am taking [here](https://opengisci.github.io)
 
-| Tool | Science |
------------------|----------------|
-yes              |   no?
 
 
 
