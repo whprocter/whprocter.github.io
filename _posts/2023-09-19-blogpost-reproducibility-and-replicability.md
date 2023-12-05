@@ -4,7 +4,7 @@ In this short discussion, I will recap the main points posed by Chapter 3 of *Un
 ## 1) To what extent does open source GIS help solve the problems of the reproducibility crisis for geography? How?
 ## 2) Are there problems with reproducibility and replicability in geography that open source GIS cannot help solve?
 
-There exist more than 230 distinct scientific fields and subfields, each with very specialized published bodies of literature which often prioritize forms of statistical analysis (across subfields).  However, growing support for the open source movement has challenged this traditional, slow-moving, corporate, and hierarchical way of "doing science."  Yet, today's shift towards open science is merely the next step in a trend that has already been happening (ex. shift towards emphasis on randomized experiments with masking and the introduction of rigid experimental and trial protocols in the 1970s).  Overall, we are seeing a emocratization of data and computation available in all disciplines.  But still, pressure for researchers/scholars to get published in prestigious journals reinforces closed science.
+There exist more than 230 distinct scientific fields and subfields, each with very specialized published bodies of literature which often prioritize forms of statistical analysis (across subfields).  However, growing support for the open source movement has challenged this traditional, slow-moving, corporate, and hierarchical way of "doing science."  Yet, today's shift towards open science is merely the next step in a trend that has already been happening (ex. shift towards emphasis on randomized experiments with masking and the introduction of rigid experimental and trial protocols in the 1970s).  Overall, we are seeing a democratization of data and computation available in all disciplines.  But still, pressure for researchers/scholars to get published in prestigious journals reinforces closed science.
 
 
 ## First, I will define two important concepts in the domain of open source science:
@@ -58,6 +58,14 @@ Peer Review Differences: Peer review in open source projects differs from tradit
 ## Conclusion
 
 Open source GIS undeniably plays a pivotal role in addressing geography's reproducibility crisis, fostering collaboration, promoting transparency, and making research tools accessible. However, it is essential to acknowledge its limitations and actively work towards overcoming them. As the geography community continues to navigate this terrain, the commitment to open source ideals and the recognition of its potential challenges will pave the way for more reproducible and robust research in the field.
+
+
+**REFERENCES**
+
+NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: [10.17226/25303]
+Chapter 3, Understanding reproducibility and replicability (pages 31-43 )
+
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: [10.1007/s10109-009-0086-8]
 
 
 
