@@ -57,21 +57,15 @@ plugins:
 
 author:
   name   : "Will Procter"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello! Welcome to my portfolio."
+  avatar : "/assets/images/headshotWHP.jpeg"
+  bio    : "Senior Economics and Geography double major at Middlebury College in Middlebury, VT."
   links:
-    - label: "I do not yet have my own website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "I do not yet have a Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "http://linkedin.com/williamprocter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "No public Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
