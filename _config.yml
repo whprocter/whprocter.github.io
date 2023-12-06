@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: William Procter
 email: whprocter@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio of GIScience Work at Middlebury College
@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Will Procter"
+  name   : "William Procter"
   avatar : "/assets/images/headshotWHP.jpeg"
   bio    : "Senior Economics and Geography double major at Middlebury College in Middlebury, VT."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "http://linkedin.com/williamprocter/"
+      url: "http://linkedin.com/william-procter/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
