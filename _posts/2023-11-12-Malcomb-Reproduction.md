@@ -1,4 +1,10 @@
-This is a reproduction study that I conducted of Malcomb et al. 2014.  I sought to determine whether the original Malcomb study could be reproduced using an open-source approach with open source software and easily-accessible data sources.  You can access my reproduction report [here](https://whprocter.github.io/RPr-Malcomb-2014/)
+## Reproduction of Malcomb et al. 2014.  
+
+I sought to determine whether the original Malcomb study could be reproduced using an open-source approach with open source software and easily-accessible data sources.  
+
+You can access my reproduction report [HERE](https://whprocter.github.io/RPr-Malcomb-2014/)
+
+You can access the repository for my reproduction [HERE](https://github.com/whprocter/RPr-Malcomb-2014)
 
 I made several relevant contributions to the original study.  First, I took the study's existing raster vulnerability map and replicated it but in vector form, showing the mean vulnerability for each Traditional Authority (similar to a county) in Malawi. Additionally, I joined the names of Traditional Authorities to the polygons layer, allowing policymakers to associate which TAs are most at risk.  Since the map is interactive, policymakers and stakeholders can simply click on TAs with high vulnerabilities, see the name of that TA, and the exact value of its mean vulnerability score.  The original raster map did show spatial patterns of vulnerability, but it was not very useful for policymakers and stakeholders looking to identify exactly which TAs are most vulnerable and require targeted aid.  Additionally, I loaded maps from the original study into the report so that readers can visually compare the differences in maps between the original study and the maps in the reproduction report.  Lastly, because attempts at reproducing some of the original figures did not yield the exact same results as the original study, I created difference maps and histograms of those difference values.  The difference values tended to be normally distributed (phew!), which implies that the sources of variation likely had to do with computational environments or something minor, and that we weren't missing anything major that created lopsided results.
 
