@@ -16,5 +16,5 @@ Lastly, our replication study opens the door to further research, replication, a
 
 In conclusion, our replication study has reinforced the critical role of replication in scientific inquiry. It has also highlighted opportunities for refining research design, improving reproducibility, and expanding the educational applications of research findings. Moreover, it has paved the way for future investigations that can build upon the foundations laid by the original study, offering the potential for deeper insights and a more comprehensive understanding of the subject matter.
 
-Original Chakraborty (2021) Study:
+**Original Chakraborty (2021) Study:**
 Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI: <10.1016/j.dhjo.2020.101007]>.
