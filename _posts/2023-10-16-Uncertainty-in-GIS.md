@@ -35,3 +35,10 @@ Fulfilling these responsibilities requires the application of several key strate
 In my own experience, working with outdated and non-standardized raster has presented a major source of uncertainty.  During Fall 2022, I had the privilege of working as a Research Assistant for Professor Will Amidon at Middlebury College, working on using raster climatic data to use as equation inputs for modelling evapotranspiration rates in Utah.  The gridded dataset that we were working with did not have much metadata, and we struggled to understand what exact units the radiation and windspeed layers were presented in.  The best we could do was assume that it met the conventions for what we saw other papers commonly using.  Ultimately, our modeled evapotranspiration seemed to do a decent job predicting actual measured evapotranspiration, but we had to carry uncertainty in our model that stemmed from our lack of complete confidence in knowing the measurement units.
 
 In conclusion, uncertainty is an intrinsic and complex aspect of the geography field. Rather than trying to eliminate it entirely, our role as responsible geographers is to acknowledge, manage, and document it. By embracing transparency, standardization, and the open sharing of our work, we can continue to uncover the intricate and nuanced stories that geographic research has to tell, while enabling others to build upon our findings with a clear understanding of the inherent uncertainties.
+
+
+**REFERENCES:**
+Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley.
+ > Chapter 6: Uncertainty, (pages 127-153)
+  
+Tullis, J. A., and B. Kar. 2021. Where Is the Provenance? Ethical Replicability and Reproducibility in GIScience and Its Critical Applications. Annals of the American Association of Geographers 111 (5):1318–1328. DOI:10.1080/24694452.2020.1806029
