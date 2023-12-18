@@ -9,7 +9,9 @@ The code-based approach in R uses a dedicated codebook, which contains all the c
 Additionally, I sought to reduce uncertainty/threats to internal validity in the analysis results by addressing a boundary distortion that occurs in the original study along the eastern border of the state, at the Connecticut River.  I find that the omission of a River Corridor along the Connecticut River leads to several hundred mobile homes not being identified as at-risk of flooding when using the River Corridor approach.  
 
 View my report [HERE](https://whprocter.github.io/VT-Mobile-Home-Flooding/)
+
 View my repository for this reproduction study [HERE](https://github.com/whprocter/VT-Mobile-Home-Flooding)
 
 **References:**
+
 Baker, D., Hamshaw, S. D., & Hamshaw, K. A. (2014). Rapid flood exposure assessment of Vermont mobile home parks following Tropical Storm Irene. Natural Hazards Review, 15(1), 27-37. DOI: 10.1061/(ASCE)NH.1527-6996.0000112.
