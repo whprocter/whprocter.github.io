@@ -23,7 +23,13 @@ The next position is that GIS is a **toolmaker**.  While still largely acknowedg
 The last position is that GIS is a full on **science**.  Science is defined as a logical and systematic approach to problems that seek generalizable answers.  The best argument I found for GIS as a formal science is that it can be used to describe, model, analyze, reason on, and make decisions about phenomena distributed on the surface of the earth.  Just like the other natural sciences, GIScience uses statistical techniques and systematic approaches/experimentation to seek generalizable answers about a given phenomena.  For it to be a science, it must fill a gap that is inadequate in other disciplines.  However, GIS is best known for its applicability to so many disciplines - economics, linguistics, physical geography, demography, political science, biology, and more - that I find it difficult to acknowledge that GIS really has its own niche.  GIS is always being used to identify something in another discipline.  For instance, while GIS deals with points, lines, adjacency, connectivity, neighborhoods, orthorectification, area weighted aggregation, etc...these concepts, while scientific, already exist in the science of geography.
 
 
-# Ultimately, while GIS is incredibly complex, it is merely a tool that is evoloving that offers the technical features for scholars to study and test hypotheses pertinent to other core disciplines.
+# Ultimately, while GIS is incredibly complex, it is merely a tool that is evoloving that offers the technical features for scholars to study and test hypotheses pertinent to other core disciplines.  
+
+In my perspective, characterizing GIS solely as a pure tool oversimplifies its intricate nature. Treating GIS as a pure tool underestimates its significance by neglecting its role as a dynamic toolmaker, constantly evolving and enhancing its capabilities. The toolmaker aspect acknowledges the educational and technical efforts required for responsible GIS use, emphasizing its role in advancing spatial thinking and geography.
+
+While GIS incorporates scientific methodologies and techniques, its true strength lies in its interdisciplinary applications, contributing to various scientific domains without necessarily carving out a distinct space for itself. It operates at the intersection of multiple sciences, applying existing scientific concepts to spatial data rather than introducing entirely novel scientific paradigms.
+
+Therefore, my inclination towards viewing GIS as a complex tool with evolving functionalities stems from the recognition that its nature transcends a simplistic tool or science classification. It is a dynamic entity that empowers scholars across disciplines, providing them with the technical means to explore and analyze spatial phenomena while adapting to the evolving landscape of scientific inquiry.
 
 
 **REFERENCES**
